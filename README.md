@@ -67,7 +67,7 @@ Into something like this -
 
 ![Image](./Images/casesafter.png)
 
-Once everything was transformed and merged, I was able to put this dataset into Power Bi to create an interactive dashboard, which can be found [here](https://app.powerbi.com/view?r=eyJrIjoiYmY0MzkzMzktOGM2Ni00NTY3LWI3Y2MtY2E0OTJlMzNhZTA2IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9).
+Once everything was transformed and merged, I was able to put this dataset into Power Bi to create an interactive dashboard, which can be found [here](https://app.powerbi.com/view?r=eyJrIjoiYmY0MzkzMzktOGM2Ni00NTY3LWI3Y2MtY2E0OTJlMzNhZTA2IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=ReportSection).
 
 ## Acknowledgements
 Special thanks and much love to NSS and these individuals:
